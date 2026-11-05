@@ -1,0 +1,7 @@
+Python: 3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]
+TensorFlow: 2.21.0
+NumPy: 2.4.6
+Pandas: 2.2.3
+Scikit-learn: 1.6.1
+Matplotlib: 3.10.0
+Pillow: 11.3.0
