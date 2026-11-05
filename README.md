@@ -33,6 +33,14 @@ The required Python packages and their versions are listed in `requirements.txt`
 ## Installation
 
 Clone the repository:
+## Archived Code and DOI
 
-git clone https://github.com/redamcomputer/COVID19_CT_Classification.git
-cd COVID19_CT_Classification
+The source code associated with this study is archived in Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.23973477
+        
+        
+        
+        
+
+GitHub: https://github.com/redamcomputer/COVID19_CT_Classification
